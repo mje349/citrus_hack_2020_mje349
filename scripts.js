@@ -6,6 +6,6 @@ function gotMessage(message, sender, sendresponse)
     let input = document.getElementsByTagName("input");
     for (elt of input)
     {
-        elt.style['background-color'] = '#83142c';
+        elt.style['background-color'] = '#616f39';
     }
 }
