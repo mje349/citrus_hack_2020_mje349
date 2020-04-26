@@ -13,5 +13,10 @@
       "matches": ["<all_urls>"],
       "js": ["scripts.js"]
     }
-  ]
+  ],
+  "background" : {
+    "scripts" : ["background.js"]
+  },
+  "browser_action" : {
+  }
 }
