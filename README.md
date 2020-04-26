@@ -14,7 +14,8 @@ By [Montana Esguerra](https://github.com/mje349 "Lost money on turnips in the st
 4. Click on Load unpacked
 5. Locate the cloned repo "citrus_hack_2020_mje349" and Select Folder
 6. The Sql Sniper Icon should now appear with you Chrome Extensions
-7. You are now ready to go threat hunting!
+7. Click on the SQL Sniper icon to scan the webpage - vulnerable elements will turn green
+8. You are now ready to go threat hunting!
 ```
 ## Bugs
 ``` 
